@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "金山词霸右键查询",
+		"description": "Name of application"
+	},
+	"appDescription": {
+		"message": "使用金山词霸检索单词，选中中英文单词后，点击右键，选择金山词霸。金山词霸词典查询结果页面提供英汉、汉英、英英查询结果。",
+		"description": "Description of application"
+	},
+	"contextTitle": {
+		"message": "使用金山词霸查询 “%s”",
+		"description": "Name of item in context menu"
+	}
+}
